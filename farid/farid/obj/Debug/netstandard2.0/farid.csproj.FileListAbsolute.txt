@@ -1,0 +1,7 @@
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\farid.csproj.AssemblyReference.cache
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\farid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\farid.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\farid.AssemblyInfo.cs
+C:\Users\Alumno\Documents\Ga\farid\farid\obj\Debug\netstandard2.0\farid.csproj.CoreCompileInputs.cache

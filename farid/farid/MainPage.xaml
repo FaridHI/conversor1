@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="farid.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Convertidor de Unidades" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Peso (kg)" FontSize="Title" Padding="30,10,30,0"/>
+        <Entry x:Name="kgEntry" Placeholder="Ingrese kg" Margin="30,0,30,10"/>
+        <Label Text="Resultado en Libras:" FontSize="16" Padding="30,0,30,0"/>
+        <Label x:Name="resultadoLibrasLabel" FontSize="16" Padding="30,0,30,10"/>
+
+        <Label Text="Volumen (litros)" FontSize="Title" Padding="30,10,30,0"/>
+        <Entry x:Name="litrosEntry" Placeholder="Ingrese litros" Margin="30,0,30,10"/>
+        <Label Text="Resultado en Galones:" FontSize="16" Padding="30,0,30,0"/>
+        <Label x:Name="resultadoGalonesLabel" FontSize="16" Padding="30,0,30,10"/>
+
+        <Label Text="Temperatura (°C)" FontSize="Title" Padding="30,10,30,0"/>
+        <Entry x:Name="celsiusEntry" Placeholder="Ingrese °C" Margin="30,0,30,10"/>
+        <Label Text="Resultado en Fahrenheit:" FontSize="16" Padding="30,0,30,0"/>
+        <Label x:Name="resultadoFahrenheitLabel" FontSize="16" Padding="30,0,30,10"/>
+
+        <Button Text="Convertir" Clicked="OnConvertClicked" FontSize="20" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0"/>
+    </StackLayout>
+
+</ContentPage>
